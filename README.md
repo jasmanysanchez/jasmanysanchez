@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Actualmente trabajo en la Universidad Nacional del Ecuador como analista de software, desarrollando backend con framework django.<br>Quiero colaborar en proyectos open source.<br>Busco ayuda en ciberseguridad.<br>Actualmente estoy aprendiendo Angular, C#.<br>Puedes hacerme preguntas sobre el framework django, ya que tengo más de tres años de experiencia.<br>
+Actualmente trabajo en la Universidad Nacional del Ecuador como analista de software, desarrollando backend con framework django.<br>Actualmente estoy aprendiendo Angular, C#.<br>Puedes hacerme preguntas sobre el framework django, ya que tengo más de tres años de experiencia.<br>
 
 
 ## 🌐 Redes sociales:
