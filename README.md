@@ -2,7 +2,7 @@
 Actualmente trabajo en la Universidad Nacional de Educación como analista de software, desarrollando backend con el framework Django.<br>Actualmente estoy aprendiendo Angular, C#.<br>Puedes hacerme preguntas sobre el framework django, ya que tengo más de tres años de experiencia.<br>
 
 ## 🌐 Portafolio:
-[![Portafolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://devarech.me)
+[Portafolio](https://devarech.me)
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmany) 
