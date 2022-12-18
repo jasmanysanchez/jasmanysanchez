@@ -19,7 +19,7 @@ Actualmente trabajo en la Universidad Nacional de Educación como analista de so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="http://drive.google.com/uc?export=view&id=1bYw7BXuZ7E2tfx5OVaanb32jUXDBUyl0" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jasmanysanchez&icon=7&color=1)](https://visitcount.itsvg.in)
