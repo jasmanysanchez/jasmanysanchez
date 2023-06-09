@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Actualmente trabajo en la Universidad Nacional de Educación como analista de software, desarrollando backend con el framework Django.<br>Actualmente estoy aprendiendo Angular, C#.<br>Puedes hacerme preguntas sobre el framework django, ya que tengo más de tres años de experiencia.<br>
+Soy un analista de software en la Universidad Nacional de Educación, especializado en desarrollo backend con el popular framework Django. Además, me encuentro en constante crecimiento, actualmente aprendiendo Angular y C#.<br>Con más de tres años de experiencia en Django, puedo responder tus preguntas y brindarte información sobre este poderoso framework.<br>
 
 ## 🌐 [Portafolio:](https://devarech.me)
 
